@@ -1,0 +1,15 @@
+PODS:
+  - KMNavigationBarTransition (0.0.10)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - KMNavigationBarTransition
+  - Masonry
+
+SPEC CHECKSUMS:
+  KMNavigationBarTransition: 7a519f915cfe6fe09764b2061ea01043b445f7d2
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 256292f655d341d56f53d79c66162a82f4c815c0
+
+COCOAPODS: 1.1.1
